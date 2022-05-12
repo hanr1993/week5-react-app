@@ -10,7 +10,7 @@ function App() {
         <footer>
           This project was coded by Hannah Rusk{" "}
           <a
-            href="https://github.com/hanr1993/Week5-Weather-App"
+            href="https://github.com/hanr1993/week5-react-app"
             target="_blank"
             rel="noreferrer"
           >
